@@ -1,0 +1,4 @@
+D:\Projects\ExpressionTrees\ExpressionTrees\ExpressionTrees\bin\Debug\ExpressionTrees.exe
+D:\Projects\ExpressionTrees\ExpressionTrees\ExpressionTrees\bin\Debug\ExpressionTrees.pdb
+D:\Projects\ExpressionTrees\ExpressionTrees\ExpressionTrees\obj\x86\Debug\ExpressionTrees.exe
+D:\Projects\ExpressionTrees\ExpressionTrees\ExpressionTrees\obj\x86\Debug\ExpressionTrees.pdb
